@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="916c0656-fe93-40de-989c-42bfbfe72870" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ant-learn-pandas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ant-learn-pandas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09. Pandas数据排序.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09. Pandas数据排序.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15. Pandas批量拆分与合并Excel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/15. Pandas批量拆分与合并Excel.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19. Pandas怎样对每个分组应用apply函数.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/19. Pandas怎样对每个分组应用apply函数.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/10_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/10_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +44,17 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="aeedf47f-e4c9-4fa6-81c1-7bda9470d41f" />
+  <component name="JupyterTrust" id="5f0f15fd-b8c2-44f6-a33e-957363be8332" />
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -41,26 +66,143 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="29" />
-    <option name="width" value="1903" />
-    <option name="height" value="994" />
-  </component>
   <component name="ProjectId" id="1YWIrqSA1DpVrwL5L39M6DRmV9d" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.10_test">
+    <configuration name="07_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ant-learn-pandas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/07_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ant-learn-pandas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/09_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ant-learn-pandas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/10_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ant-learn-pandas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ant-learn-pandas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.10_test" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.09_test" />
+        <item itemvalue="Python.07_test" />
+        <item itemvalue="Python.demo1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -75,16 +217,100 @@
       <workItem from="1568214801499" duration="762000" />
       <workItem from="1583052181564" duration="685000" />
       <workItem from="1583968520820" duration="652000" />
+      <workItem from="1593102442404" duration="79000" />
+      <workItem from="1593139189164" duration="11000" />
+      <workItem from="1593152628112" duration="9979000" />
+      <workItem from="1593188382176" duration="20177000" />
+      <workItem from="1593265061893" duration="7113000" />
     </task>
+    <task id="LOCAL-00001" summary="修改">
+      <created>1593274912342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593274912342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="744" y="238" key="RollbackChangesDialog" timestamp="1583968568415">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="451" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593102498075">
+      <screen x="67" y="27" width="1853" height="930" />
     </state>
-    <state x="744" y="238" key="RollbackChangesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583968568415" />
+    <state x="451" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.930@67.27.1853.930" timestamp="1593102498075" />
+    <state x="528" y="27" width="920" height="930" key="CommitChangelistDialog2" timestamp="1593274912249">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state x="528" y="27" width="920" height="930" key="CommitChangelistDialog2/67.27.1853.930@67.27.1853.930" timestamp="1593274912249" />
+    <state width="1799" height="234" key="GridCell.Tab.0.bottom" timestamp="1593276030045">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state width="1799" height="234" key="GridCell.Tab.0.bottom/67.27.1853.930@67.27.1853.930" timestamp="1593276030045" />
+    <state width="1799" height="234" key="GridCell.Tab.0.center" timestamp="1593276030044">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state width="1799" height="234" key="GridCell.Tab.0.center/67.27.1853.930@67.27.1853.930" timestamp="1593276030044" />
+    <state width="1799" height="234" key="GridCell.Tab.0.left" timestamp="1593276030043">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state width="1799" height="234" key="GridCell.Tab.0.left/67.27.1853.930@67.27.1853.930" timestamp="1593276030043" />
+    <state width="1799" height="234" key="GridCell.Tab.0.right" timestamp="1593276030045">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state width="1799" height="234" key="GridCell.Tab.0.right/67.27.1853.930@67.27.1853.930" timestamp="1593276030045" />
+    <state width="1799" height="290" key="GridCell.Tab.1.bottom" timestamp="1593265037355">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state width="1799" height="290" key="GridCell.Tab.1.bottom/67.27.1853.930@67.27.1853.930" timestamp="1593265037355" />
+    <state width="1799" height="290" key="GridCell.Tab.1.center" timestamp="1593265037353">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state width="1799" height="290" key="GridCell.Tab.1.center/67.27.1853.930@67.27.1853.930" timestamp="1593265037353" />
+    <state width="1799" height="290" key="GridCell.Tab.1.left" timestamp="1593265037353">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state width="1799" height="290" key="GridCell.Tab.1.left/67.27.1853.930@67.27.1853.930" timestamp="1593265037353" />
+    <state width="1799" height="290" key="GridCell.Tab.1.right" timestamp="1593265037355">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state width="1799" height="290" key="GridCell.Tab.1.right/67.27.1853.930@67.27.1853.930" timestamp="1593265037355" />
+    <state x="475" y="126" key="SettingsEditor" timestamp="1593265088655">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state x="475" y="126" key="SettingsEditor/67.27.1853.930@67.27.1853.930" timestamp="1593265088655" />
+    <state x="588" y="225" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1593274970688">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state x="588" y="225" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.930@67.27.1853.930" timestamp="1593274970688" />
+    <state x="656" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1593189337972">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state x="656" y="227" width="672" height="678" key="search.everywhere.popup/67.27.1853.930@67.27.1853.930" timestamp="1593189337972" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pandas_learn$09_test.coverage" NAME="09_test Coverage Results" MODIFIED="1593265931300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pandas_learn$pytest_in_test_demo_py.coverage" NAME="pytest in test_demo.py Coverage Results" MODIFIED="1593257872560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pandas_learn$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1593259152074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pandas_learn$test.coverage" NAME="test Coverage Results" MODIFIED="1593273473775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pandas_learn$07_test.coverage" NAME="07_test Coverage Results" MODIFIED="1593264735891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pandas_learn$10_test.coverage" NAME="10_test Coverage Results" MODIFIED="1593276030034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
 </project>
